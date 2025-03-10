@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thanks</title>
+    <style>
+        center {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <h1>Thank you</h1>
+        <p4>Thank you for installing my IOS profile. This profile add the basic must need FRC apps. To uninstall the profile go to Setting > General > VPN & Device Management > FRC > Remove Profile</p4>
+        <p4>To delete this app go to home screen, than tap and hold than press remove bookmark</p4>
+    <center>
+</body>
+</html>
